@@ -2,7 +2,7 @@
 
 <p align="center"><b>嵌入式 × 机器人 × AI 全栈</b></p>
 
-<p align="center">主要做嵌入式与机器人，也写 AI 工具。习惯把项目做到实机上验证。</p>
+<p align="center">喜欢折腾一些嵌入式以及 AI 相关的项目。</p>
 
 <p align="center">
   <code>🎂 2005.11.29 · 广东</code>&nbsp;
